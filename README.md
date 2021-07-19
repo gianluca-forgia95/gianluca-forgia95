@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gianluca Forgia</h1>
 <h3 align="center">Junior Full Stack Web Developer from Rome, Italy</h3>
 
-- 🌱 I’m currently learning **VueJs Components**
+- 🌱 I’m currently learning **Vue Cli, Vuex**
 
 - 💬 Ask me about **VueJs, Laravel, Html, Css, Javascript**
 
