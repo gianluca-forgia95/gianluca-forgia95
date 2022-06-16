@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gianluca Forgia</h1>
 <h3 align="center">Junior Full Stack Web Developer from Rome, Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianluca-forgia95" alt="gianluca-forgia95" /></a> </p>
 
 - 🌱 I’m currently learning **Angular and Typescript**
 
