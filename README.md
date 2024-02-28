@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gianluca Forgia</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gianluca-forgia95" alt="gianluca-forgia95" /></a> </p>
-
 - 🌱 I’m currently learning **Nodejs**
 
 - 💬 Ask me about **Angular, Javascript, Typescript, Html5, CSS, Vue, Bootstrap, Php, Laravel, Git**
